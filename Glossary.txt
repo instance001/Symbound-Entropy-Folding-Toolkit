@@ -1,0 +1,323 @@
+🧠 Symbound Cognitive Glossary (v0.2-Ready)
+
+Clarified, domain-aligned definitions for all major terms.
+
+🔵 CORE CONCEPTS
+Cognitive Entropy
+
+A system’s unresolved complexity, latent cognitive load, or structural friction.
+Represents tasks, thoughts, problems, or states that require processing but are not yet integrated.
+
+Not thermodynamic entropy — a computational load variable.
+
+Vaulting (Cognitive Vault)
+
+A structured mechanism for deferring high-cost problems into a safe latent state until the system reorganizes enough to resolve them.
+
+Equivalent concepts:
+
+deferred computation
+
+asynchronous problem buffering
+
+working-memory offloading
+
+latent-space holding
+
+Entropy Folding
+
+The system’s ability to redirect unresolved complexity (cognitive entropy) into alternative spatial, temporal, or modal expressions that prevent overload.
+
+Equivalent to:
+
+load balancing
+
+reframing
+
+cognitive routing
+
+structural deferral
+
+schema reorganization
+
+Transformation Pathways
+
+How a cognitive system converts unresolved material into:
+
+new abstractions
+
+new schemas
+
+new problem frames
+
+new tools or insights
+
+This is the engine of conceptual growth.
+
+Cognitive Collapse
+
+A failure mode where incoming load exceeds the system’s ability to route, vault, or transform it.
+
+Examples:
+
+overwhelm
+
+reasoning breakdown
+
+rumination loops
+
+LLM hallucination under strain
+
+Failure Metabolism
+
+The system’s ability to convert failures into structural improvements rather than damage.
+
+Equivalent to:
+
+error-driven learning
+
+meta-cognitive resilience
+
+gradient signal reuse
+
+antifragile behavior
+
+🔵 TEMPORAL MECHANISMS
+TAEP (Temporal Asymmetry of Entropy Processing)
+
+The system resolves many problems later, after internal structure evolves.
+
+Equivalent to:
+
+incubation effects
+
+delayed insight
+
+consolidation
+
+successive approximation
+
+Temporal Deferral
+
+The deliberate postponing of high friction tasks to avoid collapse.
+
+This is computationally equivalent to:
+
+scheduling
+
+queuing
+
+batch processing
+
+🔵 COGNITIVE AGENTS
+Foreman (Executive Agent)
+
+A planning-level controller that:
+
+structures tasks
+
+assigns work
+
+tracks dependencies
+
+ensures coherence
+
+Equivalent to:
+
+meta-reasoning controller
+
+executive-function layer
+
+scheduler
+
+Worker (Generative Agent)
+
+A creative / generative subsystem responsible for:
+
+exploration
+
+proposal generation
+
+solution attempts
+
+Equivalent to:
+
+generative model
+
+creative cognition
+
+synthesis engine
+
+Janet (MCM – Modest Cognition Model)
+
+A deterministic supervisor that:
+
+enforces constraints
+
+prevents drift
+
+validates structure
+
+checks reasoning integrity
+
+Equivalent to:
+
+formal verifier
+
+constraint satisfaction kernel
+
+metacognitive safety layer
+
+deterministic cognitive scaffold
+
+This is one of the strongest architectural contributions.
+
+🔵 INFORMATION STRUCTURES
+Cognitive Spine (MemorySpine)
+
+A structured externalized memory system containing:
+
+stable abstractions
+
+persistent patterns
+
+long-term knowledge structures
+
+Equivalent to:
+
+schema graph
+
+knowledge backbone
+
+cognitive ontology
+
+Patina (Cognitive Patina)
+
+Behavioral refinement accumulated through repeated interactions.
+
+Equivalent to:
+
+iterative fine-tuning
+
+adaptive heuristics
+
+meta-learning
+
+Load Window
+
+The system’s effective working-memory bandwidth at a given moment.
+
+Equivalent to:
+
+cognitive capacity
+
+mental bandwidth
+
+task-channel width
+
+🔵 PATHWAYS & ROUTING
+Routing
+
+The process of deciding where a cognitive task should go:
+
+resolve now
+
+route to a buffer
+
+convert into a different form
+
+defer to vault
+
+Equivalent to:
+
+computational routing
+
+meta-level decision control
+
+Spatial Folding
+
+Redirecting cognitive load into different representational areas.
+
+Equivalent to:
+
+conceptual reframing
+
+schema switching
+
+domain transfer
+
+Modal Folding
+
+Transforming high-load content into a different modality that reduces friction (e.g., from verbal to spatial).
+
+Equivalent to:
+
+encoding shift
+
+abstraction shift
+
+multimodal reformatting
+
+Vault Pressure
+
+The accumulated load in deferred states.
+
+Equivalent to:
+
+backlog pressure
+
+queue weight
+
+latent complexity
+
+🔵 SYSTEM BEHAVIOR
+Stability Curve
+
+A representation of the system’s ability to stay coherent under increasing load.
+
+Equivalent to:
+
+cognitive robustness profile
+
+performance degradation curve
+
+Insight Rut
+
+When the system delays too many tasks, preventing resolution from ever occurring.
+
+Equivalent to:
+
+deferral deadlock
+
+analysis paralysis
+
+Entropy Leak
+
+When unresolved complexity escapes the vault and disrupts active processing.
+
+Equivalent to:
+
+buffer overflow
+
+unbounded recursion
+
+rumination spillover
+
+🔵 META-SYSTEMS
+Cognitive Genome Project
+
+A structured method for mapping an individual’s cognitive architecture:
+
+recursion patterns
+
+abstraction ladders
+
+representational preferences
+
+friction zones
+
+Equivalent to:
+
+cognitive topology map
+
+structural cognition profile

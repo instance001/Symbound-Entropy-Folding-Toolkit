@@ -1,0 +1,18 @@
+Addendum (v0.1 Language Clarification)
+
+Note on terminology:
+This document uses the term entropy in a domain-specific, computational sense rather than the strict physical or Shannon-theoretic definition. Throughout v0.1, “entropy” refers to unresolved cognitive load, latent complexity, or structural friction within an intelligent system, not thermodynamic disorder.
+
+The architecture described here is a cognitive/computational model, not a physical theory. The terminology emerged organically during development and will be aligned with standard cognitive-science and systems-engineering language in v0.2.
+
+Future revisions will:
+
+replace metaphor-heavy phrasing with precise technical terms
+
+distinguish clearly between physical entropy and cognitive-load entropy
+
+provide citations, mappings, and formal definitions across domains
+
+maintain conceptual continuity while tightening scientific framing
+
+The underlying mechanisms, operators, and architectural components remain unchanged; only the vocabulary will be standardized for clarity and interoperability with existing research fields.
