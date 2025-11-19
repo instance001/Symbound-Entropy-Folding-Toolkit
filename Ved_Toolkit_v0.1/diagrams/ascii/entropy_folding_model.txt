@@ -1,0 +1,15 @@
+ENTROPY FOLDING MODEL (ASCII DIAGRAM)
+=====================================
+
+                   ENTROPIC INPUT
+                 (Friction / Overload)
+                          |
+                          v
+                +----------------------+
+                |  ENTROPY DETECTION   |
+                +----------+-----------+
+                           |
+                           v
+                +----------+-----------+
+                |  FOLDING DECISION    |
+                +----------+-----------+
